@@ -1,2 +1,101 @@
+.holder{
+	display:flex;
+	justify-content:space-between;
+}
+.item{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+}
+.box1{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:red;
+	order:2;
+}
+.box2{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:blue;
+	order:3;
+}
+.box3{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:green;
+	order:1;
+}
+.boxx1{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:red;
+	order:6;
+}
+.boxx2{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:blue;
+	order:7;
+}
+.boxx3{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:green;
+	order:1;
+}
+.boxx4{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:green;
+	order:2;
+}
+.boxx5{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:green;
+	order:3;
+}
+.boxx6{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:green;
+	order:4;
+}
+.boxx7{
+	height:150px;
+	width:150px;
+	color:black;
+	font-size:30px;
+	font-weight:bold;
+	background-color:green;
+	order:5;
+}
 
 /* Your CSS Code here. */
